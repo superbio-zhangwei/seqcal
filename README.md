@@ -2,7 +2,7 @@
 
 seqcal is a primer-guided sequence extraction and copy-number calculation tool.
 
-It uses `seqkit locate` to find forward and reverse primer binding sites, pairs
+It locates forward and reverse primer binding sites, pairs
 compatible hits, reports copy numbers, and writes extracted target sequences.
 
 ## Installation
@@ -12,7 +12,7 @@ Create the conda environment with the Python dependencies:
 ```bash
 conda env create -f environment.yml
 conda activate seqcal
-pip install -e .
+pip install .
 ```
 
 ## Usage
