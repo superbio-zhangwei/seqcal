@@ -7,9 +7,12 @@ compatible hits, reports copy numbers, and writes extracted target sequences.
 
 ## Installation
 
-Create the conda environment with the Python dependencies:
+Clone the repository and create the conda environment with the Python dependencies:
 
 ```bash
+git clone https://github.com/your-username/seqcal.git
+cd seqcal
+
 conda env create -f environment.yml
 conda activate seqcal
 pip install .
