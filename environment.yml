@@ -1,0 +1,10 @@
+name: seqcal
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - pandas
+  - tqdm
+  - seqkit
+  - pip
