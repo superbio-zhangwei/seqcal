@@ -7,7 +7,7 @@ compatible hits, reports copy numbers, and writes extracted target sequences.
 
 ## Installation
 
-Create the conda environment with the Python dependencies and `seqkit`:
+Create the conda environment with the Python dependencies:
 
 ```bash
 conda env create -f environment.yml
