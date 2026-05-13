@@ -1,0 +1,5 @@
+sample	target_id	seqID	gene_position	start	end	left_primer_start	left_primer_end	right_primer_start	right_primer_end	extract_start	extract_end	extract_length	include_primers
+cc	cc_target_1	NC_079283.1	-	444234	444611	444215	444234	444611	444628	444235	444610	376	False
+cc	cc_target_2	NC_079283.1	-	462408	462785	462389	462408	462785	462802	462409	462784	376	False
+pk	pk_target_1	NC_079283.1	-	444234	444611	444215	444234	444611	444628	444235	444610	376	False
+pk	pk_target_2	NC_079283.1	-	462408	462785	462389	462408	462785	462802	462409	462784	376	False
