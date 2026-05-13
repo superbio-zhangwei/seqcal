@@ -62,11 +62,3 @@ seqcal \
   --min-length 100 \
   --max-length 500
 ```
-
-## Development
-
-Run tests with:
-
-```bash
-pytest
-```
