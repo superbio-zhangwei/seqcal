@@ -5,7 +5,7 @@ seqcal is a primer-guided sequence extraction and copy-number calculation tool.
 It locates forward and reverse primer binding sites, pairs
 compatible hits, reports copy numbers, and writes extracted target sequences.
 
-## Installation
+## Source code installation
 
 Clone the repository and create the conda environment with the Python dependencies:
 
@@ -16,6 +16,12 @@ cd seqcal
 conda env create -f environment.yml
 conda activate seqcal
 pip install .
+```
+
+## Bioconda installation
+
+```bash
+conda install -c bioconda seqcal
 ```
 
 ## Usage
