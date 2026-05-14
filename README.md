@@ -1,6 +1,6 @@
-# seqcal
+# Seqcal
 
-seqcal is a primer-guided sequence extraction and copy-number calculation tool.
+Seqcal is a primer-guided sequence extraction and copy-number calculation tool.
 
 It locates forward and reverse primer binding sites, pairs
 compatible hits, reports copy numbers, and writes extracted target sequences.
